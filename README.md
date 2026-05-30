@@ -1,13 +1,13 @@
 # funNLP-Search
 
-中文 NLP 资源检索助手，基于 funNLP (79.1k⭐) 项目。
+中文 NLP 资源检索助手，基于 funNLP (79.1k stars) 项目。
 
 ## 功能
 
-- 🔍 自然语言搜索 NLP 资源
-- 📚 60+ 类别资源汇总
-- ⭐ 显示项目 Stars 和描述
-- 🔗 直接访问 GitHub 链接
+- 自然语言搜索 NLP 资源
+- 多类别资源汇总
+- 显示项目 Stars 和描述
+- 直接访问 GitHub 链接
 
 ## 快速开始
 
